@@ -1,15 +1,15 @@
 
-// this has the type of string
-var firstName = "Kayvon"
-var lastName = "Kazemini"
+// this variable has the type of string
+var firstName = "Linda"
+var lastName = "Smith"
 
-// this has the type of number
-var number = 3
+// this variable has the type of number
+var num = 3
 
-// this is the type of boolean
-var trueOrFalse = true
+// this variable is the type of boolean
+var bool = true
 
-// this is the type of array
+// this variable is the type of array
 var listOfNumbers = [2, 4, 6, 8]
 
 var arrayOfMovies = ["Frozen", "The Matrix", "Spiderman", "Up", "Batman"]

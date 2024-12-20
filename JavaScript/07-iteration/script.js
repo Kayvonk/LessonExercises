@@ -6,13 +6,15 @@ var arrayOfMovies = [
   "Batman",
   "Toy Story"
 ];
+
+// The long way of logging each movie
 // console.log(arrayOfMovies[0])
 // console.log(arrayOfMovies[1])
 // console.log(arrayOfMovies[2])
 // console.log(arrayOfMovies[3])
 // console.log(arrayOfMovies[4])
 
-// for loop
+// for loop syntax
 
 // 1. for keyword is used
 // 2. In () we have 3 arguments separated by semi-colons
@@ -29,7 +31,7 @@ var arrayOfMovies = [
 // after a loop, increase the index by 1, and run again
 // ++ means increase by 1
 
-
+// console logs the length of the movies array
 console.log(arrayOfMovies.length);
 
 
