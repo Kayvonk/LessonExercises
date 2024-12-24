@@ -7,15 +7,23 @@ var lastName = "Smith"
 
 console.log(typeof firstName);
 
+console.log(firstName, lastName);
+
+
 // this variable has the type of number
 
-var num = 3
+var num = 3000
 
 console.log(typeof num);
 
-// this variable is type boolean
+console.log(num + num);
 
-var bool = false
+// Expected Output
+// 6
+
+// this variable is type boolean
+// the two possible values for a boolean is true or false
+var bool = true
 
 console.log(typeof bool)
 
